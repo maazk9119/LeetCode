@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MySolutions.DetectCapital
+﻿namespace MySolutions._520.DetectCapital
 {
     internal class DetectCaptialClass
     {
