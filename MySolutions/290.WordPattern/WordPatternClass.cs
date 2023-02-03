@@ -1,4 +1,4 @@
-﻿namespace MySolutions.WordPattern
+﻿namespace MySolutions._290.WordPattern
 {
     internal class WordPatternClass
     {
