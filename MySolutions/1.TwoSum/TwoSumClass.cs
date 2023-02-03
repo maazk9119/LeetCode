@@ -1,4 +1,4 @@
-﻿namespace MySolutions.TwoSum
+﻿namespace MySolutions._1.TwoSum
 {
     internal class TwoSumClass
     {
