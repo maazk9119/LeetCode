@@ -1,4 +1,4 @@
-﻿namespace MySolutions._112.BestTimeToBuyAndSellStoackII
+﻿namespace MySolutions._122.BestTimeToBuyAndSellStoackII
 {
     internal class BuyAndSellStock
     {
